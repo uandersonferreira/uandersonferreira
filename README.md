@@ -15,9 +15,9 @@
        
 <div align="center"><br/>
   <a href="https://github.com/UandersonFerreira/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UandersonFerreira&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UandersonFerreira&show_icons=true&theme=dracula"/>
       
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UandersonFerreira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UandersonFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Tecnologias que Estudo 
@@ -28,7 +28,8 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
     <img align="center" alt="postgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
    <img align="center" alt="sqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" >
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+ <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">   
+ 
    
 (**Tecnologias Futuras**)
              
