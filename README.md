@@ -29,12 +29,14 @@
     <img align="center" alt="postgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
    <img align="center" alt="sqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" >
  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">   
+              
+</div><br/>
  
-   
-(**Tecnologias Futuras**)
-             
-</div>
+## IDE's que utilizo
   
- ## 
+<div style="display: inline_block">
+  <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" >
  
-
+ <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
+ 
+</div>
