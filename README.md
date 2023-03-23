@@ -1,5 +1,12 @@
 ## 👋 Olá, eu sou o Uanderson Ferreira
  
+       
+<div align="center"><br/>
+  <a href="https://github.com/UandersonFerreira/">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UandersonFerreira&show_icons=true&theme=dracula"/>
+      
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UandersonFerreira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div><br/>
   <a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">
@@ -10,14 +17,6 @@
       <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
   
-</div>
-
-       
-<div align="center"><br/>
-  <a href="https://github.com/UandersonFerreira/">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UandersonFerreira&show_icons=true&theme=dracula"/>
-      
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UandersonFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Tecnologias que Estudo 
