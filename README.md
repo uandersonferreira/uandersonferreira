@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Uanderson Ferreira
  
-       
+<div align="center">     
+
 <div align="center"><br/>
   <a href="https://github.com/UandersonFerreira/">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UandersonFerreira&show_icons=true&theme=dracula"/>
@@ -33,11 +34,14 @@
  
 ## IDE's que utilizo
   
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" >
  
  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
- 
-</div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=UandersonFerreira)
+ ![](https://visitor-badge.glitch.me/badge?page_id=UandersonFerreira)
+</div>
+ 
+ </div>  
+
+
