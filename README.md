@@ -1,6 +1,8 @@
 ## 👋 Olá, eu sou o Uanderson Ferreira
- 
-<div align="center">     
+
+<img src=".github/img/a nerdy men is programming at a computer in a room(2).jpg">
+
+<div align="center">
 
 <div align="center"><br/>
   <a href="https://github.com/UandersonFerreira/">
@@ -20,7 +22,7 @@
   
 </div>
   
-## Tecnologias que Estudo 
+## Tecnologias que Estudo
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -43,6 +45,4 @@
  
  ![](https://visitor-badge.glitch.me/badge?page_id=UandersonFerreira)
  
- </div>  
-
-
+ </div>
