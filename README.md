@@ -1,23 +1,21 @@
 <h1 align="center">Olá 👋, eu sou o Uanderson Ferreira</h1>
 <h3 align="center">Um aspirante a desenvolvedor back-end Java do Brasil.</h3>
 
-- 🔭 Atualmente estou trabalhando em [Blackbox Annotations](https://github.com/uandersonferreira/blackbox-annotations)
+- 🔭 Atualmente estou trabalhando em [Java-Servlet-Jsp](https://github.com/uandersonferreira/java-servlet-jsp)
 
-- 🌱 Atualmente estou aprendendo **Angular** e **Fundamentos intermediários/Avançados do Java**
+- 🌱 Atualmente estou aprendendo **Servlet, JSP, DOM, XML** e **Fundamentos intermediários/Avançados do Java**
 
 - 👯 Estou procurando colaborar em [projetos open-source relacionados a Java e Spring Boot](https://github.com/uandersonferreira)
 
-- 🤝 Estou procurando ajuda com [projetos web com Angular e Spring Boot](https://github.com/uandersonferreira)
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [meu GitHub](https://github.com/uandersonferreira?tab=repositories)
 
-- 💬 Pergunte-me sobre **Java, Spring Boot, PostgreSql, Docker**
+- 💬 Pergunte-me sobre **Java, Spring Boot, PostgreSql, Docker, Git**
 
 - 📫 Como entrar em contato comigo **uandersonferreiradeoliveira@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências [no meu LinkedIn](https://www.linkedin.com/in/uandersonferreira/)
 
-- ⚡ Curiosidade **Adoro escutar música, ler mangás e programar em java.**
+- ⚡ Curiosidade **Adoro escutar música, ler mangás e programar em Java.**
 
 <h3 align="left">## Conecte-se comigo:</h3>
 <p align="left">
